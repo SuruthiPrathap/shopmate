@@ -1,0 +1,29 @@
+# Kids products. ONE PRODUCT PER LINE.
+# Format:  Name | Price | Subcategory | Seller (can be empty) | Image link  (or the word auto to draw a picture)
+# To use a real photo: replace  auto  with the photo link.   Then run:  npm run seed
+
+Wooden Building Blocks Set 100 Pieces | 899 | Toys & Games | ShopMate Kids World | https://i.pinimg.com/736x/1c/96/f0/1c96f0979a615e420e68c0e15fb0900f.jpg
+Remote Control Racing Car Rechargeable | 1499 | Toys & Games | ShopMate Kids World | https://i.pinimg.com/736x/97/e7/c6/97e7c6f7675fca4065a05f36146470c5.jpg
+Soft Teddy Bear Plush 3 Feet | 1199 | Toys & Games | ShopMate Kids World | https://i.pinimg.com/736x/0f/cd/d2/0fcdd296da6c3ec4d7fde8e609ed24cd.jpg
+Kids Art and Craft Kit 150 Pieces | 799 | Toys & Games | ShopMate Kids World |https://i.pinimg.com/736x/79/dd/a6/79dda644ad0f3a3399faf8867911bd8e.jpg
+Jigsaw Puzzle Set Pack of 4 | 549 | Toys & Games | ShopMate Kids World |https://i.pinimg.com/1200x/0a/3d/d4/0a3dd4842fe68299938866cd6a8b6891.jpg
+Kids Kitchen Play Set with Accessories | 1799 | Toys & Games | ShopMate Kids World | https://i.pinimg.com/736x/67/89/86/678986d8a7838582174b57435a88ea29.jpg
+Baby Feeding Bottle Set Pack of 3 | 699 | Baby Care | ShopMate Kids World | https://i.pinimg.com/1200x/06/d0/b1/06d0b1c44f71d4aed5d8337373ae99e6.jpg
+Baby Wipes Fragrance Free 72 Count Pack of 3 | 549 | Baby Care | ShopMate Kids World | https://i.pinimg.com/736x/ac/bc/08/acbc08b11a3413f44af617f4bb6721f2.jpg
+Baby Lotion and Shampoo Gift Combo | 649 | Baby Care | ShopMate Kids World | https://i.pinimg.com/736x/a0/fc/86/a0fc866681b7c1028b57e2e4635a29a4.jpg
+Baby Diapers Medium 84 Count | 999 | Baby Care | ShopMate Kids World | https://i.pinimg.com/1200x/a0/10/a9/a010a95004440fe1ba1a1ff612940b7f.jpg
+Silicone Baby Teether and Rattle Set | 399 | Baby Care | ShopMate Kids World |https://i.pinimg.com/1200x/c6/bf/b3/c6bfb3da714acf933b03f620215d1f0f.jpg
+Boys Cotton T-Shirt Pack of 3 | 799 | Kids Clothing | ShopMate Kids World | https://i.pinimg.com/736x/51/43/2c/51432cb399df534344fec95df735f5e8.jpg
+Girls Printed Cotton Frock | 699 | Kids Clothing | ShopMate Kids World | https://i.pinimg.com/736x/1d/9f/98/1d9f988e253bec49397ad6ef6396ad70.jpg
+Kids Hooded Fleece Sweatshirt | 899 | Kids Clothing | ShopMate Kids World |https://i.pinimg.com/1200x/40/98/1b/40981b59485b8137e6fee58f7c169f14.jpg
+Baby Romper Set Pack of 5 | 999 | Kids Clothing | ShopMate Kids World | https://i.pinimg.com/1200x/1c/36/fb/1c36fba0e6f95f8f744459f33ba443af.jpg
+Boys Stretchable Denim Jeans | 899 | Kids Clothing | ShopMate Kids World | https://i.pinimg.com/736x/e0/76/c3/e076c37a71bff789279637d8955383a7.jpg
+Kids School Backpack 25L Waterproof | 999 | School Supplies | ShopMate Kids World | https://i.pinimg.com/736x/49/76/6f/49766f1146a1d163eb78066be71ff9f9.jpg
+Stainless Steel Lunch Box with Water Bottle | 649 | School Supplies | ShopMate Kids World | https://i.pinimg.com/736x/52/9a/3a/529a3af6bc303887c472f9b625df0306.jpg
+Geometry Box and Stationery Combo | 349 | School Supplies | ShopMate Kids World |https://i.pinimg.com/736x/7c/61/0f/7c610feff78c6fab984cbc9f4c81c1d7.jpg
+Spiral Notebooks Pack of 6 | 299 | School Supplies | ShopMate Kids World | https://i.pinimg.com/1200x/5c/fa/70/5cfa70509a17e04e405e96726236db98.jpg
+Colour Pencils and Crayons Art Set 48 Pieces | 449 | School Supplies | ShopMate Kids World | https://i.pinimg.com/736x/4b/fd/2a/4bfd2a97a6830fc3339892bf1f31f1a7.jpg
+Foldable Baby Stroller with Rain Cover | 5999 | Baby Gear | ShopMate Kids World |https://i.pinimg.com/736x/99/9b/54/999b54e90be805738290ceb0cebd099c.jpg
+Baby High Chair with Tray | 3499 | Baby Gear | ShopMate Kids World |https://i.pinimg.com/736x/dd/0b/fd/dd0bfdffb0a77beead4a10d55412085a.jpg
+Wooden Baby Cradle with Mosquito Net | 4499 | Baby Gear | ShopMate Kids World |https://i.pinimg.com/736x/77/04/e4/7704e4add04ac561d6ceaf8ab4c62711.jpg
+Baby Walker with Music and Toys | 1799 | Baby Gear | ShopMate Kids World | https://i.pinimg.com/736x/4f/e8/9e/4fe89e63beba93a704d430626ebea846.jpg

@@ -1,0 +1,29 @@
+# Furniture products. ONE PRODUCT PER LINE.
+# Format:  Name | Price | Subcategory | Seller (can be empty) | Image link  (or the word auto to draw a picture)
+# To use a real photo: replace  auto  with the photo link.   Then run:  npm run seed
+
+Royal 3 Seater Fabric Sofa | 24999 | Sofas & Chairs | ShopMate Furniture Studio |https://i.pinimg.com/736x/b7/85/0d/b7850d546988d2255c654db26b23cdb6.jpg
+L-Shape 5 Seater Sectional Sofa | 38999 | Sofas & Chairs | ShopMate Furniture Studio | https://i.pinimg.com/736x/a1/69/56/a16956ea8a9898ca36644af3f4e4d814.jpg
+Cozy 2 Seater Velvet Loveseat | 17999 | Sofas & Chairs | ShopMate Furniture Studio | https://i.pinimg.com/736x/50/8f/23/508f23807152222f8b0947303443f386.jpg
+Ergonomic Mesh Office Chair | 6999 | Sofas & Chairs | ShopMate Furniture Studio | https://i.pinimg.com/1200x/79/5a/a7/795aa751efbc2be5fa0c0ae53ecabca3.jpg
+Wooden Accent Armchair | 8499 | Sofas & Chairs | ShopMate Furniture Studio | https://i.pinimg.com/736x/f6/a6/58/f6a658f5af2276de5b745d8285f2e301.jpg
+Recliner Chair with Footrest | 15999 | Sofas & Chairs | ShopMate Furniture Studio | https://i.pinimg.com/1200x/55/b6/2f/55b62f227b375e414cd96d59bab41da6.jpg
+King Size Solid Sheesham Wood Bed | 32999 | Beds | ShopMate Furniture Studio | https://i.pinimg.com/736x/6d/41/96/6d41968aa6e6574cb67fe821ab4ca549.jpg
+Queen Size Upholstered Bed with Storage | 28999 | Beds | ShopMate Furniture Studio | https://i.pinimg.com/1200x/1a/dc/4f/1adc4f6f2b7df9b6da3802df29f23395.jpg
+Single Bed with Pull-Out Trundle | 14999 | Beds | ShopMate Furniture Studio | https://i.pinimg.com/736x/3a/e0/cd/3ae0cd66e4bf848460cab4c731a4cdb2.jpg
+Orthopedic Memory Foam Mattress Queen | 11999 | Beds | ShopMate Furniture Studio | https://i.pinimg.com/736x/a2/90/f4/a290f4acbd434d3b15679566af03c5c5.jpg
+Metal Folding Bed with Mattress | 6499 | Beds | ShopMate Furniture Studio | https://i.pinimg.com/1200x/e7/ee/35/e7ee350f0dd5be865851316f74fa8999.jpg
+6 Seater Wooden Dining Table Set | 22999 | Tables & Desks | ShopMate Furniture Studio | https://i.pinimg.com/1200x/4a/a6/3d/4aa63dd0ee422863dfb624e7b17ba424.jpg
+Engineered Wood Study Desk | 5499 | Tables & Desks | ShopMate Furniture Studio |https://i.pinimg.com/1200x/e5/66/84/e566842ce06b936acb890c53da375532.jpg
+Round Glass Center Table | 4999 | Tables & Desks | ShopMate Furniture Studio | https://i.pinimg.com/736x/a5/1d/54/a51d543ce90416adaa902c545d7249aa.jpg
+Foldable Study Table for Bed | 1299 | Tables & Desks | ShopMate Furniture Studio | https://i.pinimg.com/736x/a9/9d/37/a99d37f2c19b7a9ad5c8e6a3fae2d27a.jpg
+Sheesham Wood Console Table | 8999 | Tables & Desks | ShopMate Furniture Studio | https://i.pinimg.com/736x/b3/23/41/b32341290422a66c1bf5cd7fe32df395.jpg
+3 Door Wardrobe with Mirror | 16999 | Wardrobes & Storage | ShopMate Furniture Studio |https://i.pinimg.com/736x/10/df/fe/10dffe3c798b9597f84f73e349a9bd52.jpg
+2 Door Engineered Wood Wardrobe | 11999 | Wardrobes & Storage | ShopMate Furniture Studio | https://i.pinimg.com/736x/ba/b6/cf/bab6cf05a30522b8cad0c45c27ca43db.jpg
+4 Tier Slipper Rack Cabinet | 3299 | Wardrobes & Storage | ShopMate Furniture Studio |https://i.pinimg.com/736x/fe/69/39/fe6939a6c07c138102e540b8209b1700.jpg
+Chest of 5 Drawers | 7999 | Wardrobes & Storage | ShopMate Furniture Studio |https://i.pinimg.com/736x/8f/83/e9/8f83e9fab362afa2a4da00b2057bdf2c.jpg
+TV Unit with Storage Cabinet | 9499 | Wardrobes & Storage | ShopMate Furniture Studio | https://i.pinimg.com/736x/2f/7c/55/2f7c55138662550d8c21f93b53ad6989.jpg
+5 Tier Wooden Bookshelf | 4299 | Shelves & Racks | ShopMate Furniture Studio | https://i.pinimg.com/736x/c8/55/4a/c8554ab4fc64e057a78972506afedbba.jpg
+Wall Mounted Floating Shelves Set of 3 | 1499 | Shelves & Racks | ShopMate Furniture Studio | https://i.pinimg.com/736x/90/d4/44/90d4440fbe05173fa8d563fcc1050d40.jpg
+Industrial Metal Display Rack | 3799 | Shelves & Racks | ShopMate Furniture Studio | https://i.pinimg.com/1200x/78/f5/d7/78f5d7ab4111bf40a60ed20c991a2cd5.jpg
+Corner Shelf Unit 4 Tier | 2599 | Shelves & Racks | ShopMate Furniture Studio | https://i.pinimg.com/1200x/08/12/4b/08124b6379925c5c941d56cb427a583c.jpg

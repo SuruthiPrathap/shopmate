@@ -1,0 +1,30 @@
+# Beauty products. ONE PRODUCT PER LINE.
+# Format:  Name | Price | Subcategory | Seller (can be empty) | Image link
+# To add a product: copy a line, change the values.   To change a photo: replace the link at the end of the line.
+# Lines starting with # are ignored. Then run:  npm run seed
+
+Minimalist 10% Niacinamide Serum | 599 | Facial Serums | Minimalist Skincare Hub | https://i.pinimg.com/1200x/ae/ee/84/aeee84de3560b08327f20af0fa199b67.jpg
+CeraVe Hydrating Facial Cleanser | 1199 | Skincare | Minimalist Skincare Hub | https://i.pinimg.com/736x/e7/1e/db/e71edb97d5a37d16f39a1759804597ec.jpg
+Estée Lauder Advanced Night Repair | 5900 | Facial Serums | Minimalist Skincare Hub |https://i.pinimg.com/736x/ab/9b/bd/ab9bbd3dc06979cc5508f6d8358dc4f2.jpg
+Minimalist 10% Vitamin C Face Serum | 599 | Facial Serums | Minimalist Skincare Hub | https://i.pinimg.com/736x/26/c1/9f/26c19f790540f0931c9c88cb04faf71e.jpg
+The Ordinary Niacinamide 10% Serum | 650 | Facial Serums | Minimalist Skincare Hub | https://i.pinimg.com/736x/4d/fa/be/4dfabecce5e88472cc4a40a0a731ac37.jpg
+Dot & Key Hyaluronic Serum | 545 | Facial Serums | Minimalist Skincare Hub | https://i.pinimg.com/736x/72/1a/7d/721a7d520dd008286828968e24e13bf3.jpg
+Plum 15% Vitamin C Face Serum | 725 | Facial Serums | Minimalist Skincare Hub |https://i.pinimg.com/1200x/00/90/f8/0090f826f161dc23b0963df7c9aa2b35.jpg
+Cetaphil Brightening Serum | 899 | Facial Serums | Minimalist Skincare Hub | https://i.pinimg.com/736x/f0/7d/55/f07d55316c344a3cb7945fbf3109f21a.jpg
+Mamaearth Skin Illuminate Serum | 449 | Facial Serums | Minimalist Skincare Hub | https://i.pinimg.com/1200x/7d/c2/ee/7dc2ee293f1d2b3543659ccd6c9d7252.jpg
+Lakme 9to5 Vitamin C+ Serum | 499 | Facial Serums | Minimalist Skincare Hub |https://i.pinimg.com/1200x/4f/d8/6a/4fd86a649b0c867bf9fb865246644d44.jpg
+Neutrogena Hydro Boost Water Gel | 1099 | Skincare | Minimalist Skincare Hub |https://i.pinimg.com/736x/15/bc/36/15bc369833a779550e00e0360898be3c.jpg
+Cetaphil Gentle Skin Cleanser | 399 | Skincare | Minimalist Skincare Hub | https://i.pinimg.com/736x/d8/54/88/d854881050f1ab6d0af72d4d9875e9ac.jpg
+Lotus Safe Sun Sunscreen SPF 50 | 349 | Skincare | Minimalist Skincare Hub | https://i.pinimg.com/736x/c8/25/f6/c825f6ebec6eff069a5d468c9e9cb3b6.jpg
+Nivea Soft Moisturising Cream | 249 | Skincare | Minimalist Skincare Hub |https://i.pinimg.com/736x/6c/a3/fd/6ca3fd8fe72c51122446ac9518f51126.jpg
+Himalaya Neem Face Wash | 180 | Skincare | Minimalist Skincare Hub | https://i.pinimg.com/736x/c9/04/6d/c9046d33ff08a029a78e6e3ac394c6dd.jpg
+Biotique Almond Soothing Body Lotion | 299 | Skincare | Minimalist Skincare Hub | https://i.pinimg.com/1200x/1f/88/6d/1f886d4992a95551f3d3f7ebc8cf71dc.jpg
+Garnier Micellar Cleansing Water | 349 | Skincare | Minimalist Skincare Hub | https://i.pinimg.com/736x/65/c5/ec/65c5ec11b12a7dae982477a587170af7.jpg
+Aqualogica Glow+ Sunscreen | 399 | Skincare | Minimalist Skincare Hub | https://i.pinimg.com/736x/a3/5d/af/a35daf7c063dd161f318b7bdfdb1330d.jpg
+Philips Beard Trimmer Series 3000 | 1499 | Grooming | Minimalist Skincare Hub | https://i.pinimg.com/736x/3e/9a/20/3e9a2094aaded5ef2de4b96378ed95d7.jpg
+Gillette Fusion Razor with 2 Blades | 599 | Grooming | Minimalist Skincare Hub | https://i.pinimg.com/736x/e9/6f/f4/e96ff4e28309d82df721cde663fe5404.jpg
+Beardo Beard Growth Oil | 449 | Grooming | Minimalist Skincare Hub |https://i.pinimg.com/736x/e7/c7/0f/e7c70fa45d888a726e5089e4c5c6e5cb.jpg
+Park Avenue Voyage Deodorant | 249 | Grooming | Minimalist Skincare Hub |https://i.pinimg.com/1200x/90/df/60/90df60ca1b70f06869d2832511d30c76.jpg
+Dove Men+Care Shampoo | 349 | Grooming | Minimalist Skincare Hub |https://i.pinimg.com/736x/9a/f7/8f/9af78f748d034f66139e47e1c059fca3.jpg
+Axe Dark Temptation Body Spray | 199 | Grooming | Minimalist Skincare Hub |https://i.pinimg.com/736x/23/8b/f3/238bf3e8e226793b27d05acc9f9b780d.jpg
+Wahl Cordless Hair Clipper | 2499 | Grooming | Minimalist Skincare Hub | https://i.pinimg.com/736x/66/a4/f5/66a4f5e61d2e56035f3199f58baf41a4.jpg

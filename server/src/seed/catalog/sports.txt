@@ -1,0 +1,30 @@
+# Sports products. ONE PRODUCT PER LINE.
+# Format:  Name | Price | Subcategory | Seller (can be empty) | Image link
+# To add a product: copy a line, change the values.   To change a photo: replace the link at the end of the line.
+# Lines starting with # are ignored. Then run:  npm run seed
+
+Pro Rubber Hex Dumbbell Set 20kg | 2499 | Fitness Equipment | ShopMate Direct | https://i.pinimg.com/736x/a1/90/ba/a190ba182c1c94f8124966a7185e76ae.jpg
+Eco Non-Slip Yoga Mat 6mm | 999 | Fitness Equipment | ShopMate Direct | https://i.pinimg.com/736x/fd/6c/4d/fd6c4dfc473ff681237a45edcb6405d8.jpg
+Under Armour Men's Compression Shirt | 1799 | Sportswear | ShopMate Direct | https://i.pinimg.com/1200x/d3/e3/a1/d3e3a10c3b3bd26d6911326c0becc4b0.jpg
+Cosco Rubber Yoga Mat 6mm | 599 | Fitness Equipment | ShopMate Direct |https://i.pinimg.com/1200x/22/07/e4/2207e4c338ed23d677c1a83d3cca56c8.jpg
+Boldfit Adjustable Dumbbell Set 20kg | 2499 | Fitness Equipment | ShopMate Direct | https://i.pinimg.com/1200x/5a/e8/d6/5ae8d6f157fe91f066e6dd058090cc65.jpg
+Strauss Resistance Bands Set of 5 | 699 | Fitness Equipment | ShopMate Direct | https://i.pinimg.com/1200x/e5/5b/8d/e55b8d644ccafa4c556d52563bba4757.jpg
+Kore PVC Dumbbell Set 10kg | 999 | Fitness Equipment | ShopMate Direct | https://i.pinimg.com/736x/ab/e8/b5/abe8b578491daa684c59ff5009f4c02b.jpg
+Decathlon Domyos Skipping Rope | 399 | Fitness Equipment | ShopMate Direct |https://i.pinimg.com/736x/21/15/cd/2115cdd764bfdd16ad9d0ab09bc338e2.jpg
+Nivia Push-Up Bars Pair | 449 | Fitness Equipment | ShopMate Direct |https://i.pinimg.com/736x/a2/c2/49/a2c249c4e56d326dc24c8caf81f132b7.jpg
+Boldfit Gym Gloves | 349 | Fitness Equipment | ShopMate Direct |https://i.pinimg.com/1200x/b7/de/55/b7de55459c6797eda81c9ee37c1c75cb.jpg
+Cockatoo Abs Roller Wheel | 499 | Fitness Equipment | ShopMate Direct |https://i.pinimg.com/1200x/b3/42/2a/b3422a5483a1f8a984fcf84f35f27744.jpg
+Fitkit Adjustable Weight Bench | 5999 | Fitness Equipment | ShopMate Direct | https://i.pinimg.com/1200x/da/bf/63/dabf635f4d6170572c48518f913f2fde.jpg
+Lifelong Fit Pro Foldable Treadmill | 15999 | Fitness Equipment | ShopMate Direct | https://i.pinimg.com/1200x/5a/fb/c7/5afbc78abc3806dc9513afcd52aba647.jpg
+Hexagon Foam Roller 45cm | 799 | Fitness Equipment | ShopMate Direct |https://i.pinimg.com/1200x/25/95/0a/25950af1585024bf030193d871a6c0f5.jpg
+Nike Dri-FIT Running T-Shirt Men | 1995 | Sportswear | ShopMate Direct | https://i.pinimg.com/1200x/6b/91/16/6b9116c04f1aaecb23c103ed23ea942a.jpg
+Adidas Essentials Track Pants | 2799 | Sportswear | ShopMate Direct | https://i.pinimg.com/1200x/2a/dc/77/2adc77f0da1655b9746c6573c54cd808.jpg
+Puma Sports Shorts Men | 999 | Sportswear | ShopMate Direct |https://i.pinimg.com/1200x/77/75/64/777564850df7affa84f5da4a8c06074f.jpg
+Decathlon Women's Running Leggings | 799 | Sportswear | ShopMate Direct | https://i.pinimg.com/736x/81/8a/7a/818a7aad41c5f62a6113ac5836327f20.jpg
+HRX Training Tee Women | 699 | Sportswear | ShopMate Direct | https://i.pinimg.com/1200x/92/4f/b1/924fb10ccbee3cb145add6f27eb2adaf.jpg
+Under Armour Sports Bra | 1799 | Sportswear | ShopMate Direct | https://i.pinimg.com/736x/d6/b7/8e/d6b78ec91fb9157c3e7fbc6b72768ea8.jpg
+Reebok Gym Tank Top | 899 | Sportswear | ShopMate Direct| https://i.pinimg.com/1200x/9b/38/73/9b3873db99613277255553b5f1460408.jpg
+Jockey Sports Track Pants | 1299 | Sportswear | ShopMate Direct |https://i.pinimg.com/736x/ab/a2/fe/aba2fe817496cb8674806d7f9dbcd726.jpg
+Nivia Football Jersey Set | 1499 | Sportswear | ShopMate Direct |https://i.pinimg.com/736x/36/a0/0e/36a00e37638691a92b7671a2ed4a7c26.jpg
+Adidas Compression Tights | 2299 | Sportswear | ShopMate Direct |https://i.pinimg.com/1200x/03/a5/01/03a501434d2b4d1c960513694462b719.jpg
+Puma Zip Hoodie Training | 3299 | Sportswear | ShopMate Direct | https://i.pinimg.com/736x/26/84/7e/26847e56a2ba4299dfafd3731acc045e.jpg

@@ -1,0 +1,30 @@
+# Fashion products. ONE PRODUCT PER LINE.
+# Format:  Name | Price | Subcategory | Seller (can be empty) | Image link
+# To add a product: copy a line, change the values.   To change a photo: replace the link at the end of the line.
+# Lines starting with # are ignored. Then run:  npm run seed
+
+Men's Slim Washed Denim Jacket | 1999 | Men's Clothing | ShopMate Direct | https://i.pinimg.com/736x/0a/eb/47/0aeb470eb7b9f1a658130b57c41b80f5.jpg
+Men's Pure Linen Summer Shirt | 1299 | Men's Clothing | ShopMate Direct |https://i.pinimg.com/736x/d7/6a/5c/d76a5c7ce78ab5170b4066b5f0989346.jpg
+Women's Floral Chiffon Maxi Dress | 1499 | Women's Wear | ShopMate Direct | https://i.pinimg.com/736x/d4/61/5a/d4615a247f0e8c9c379ad5fa0e2afa19.jpg
+Women's Leather Tote Handbag | 2499 | Backpacks & Luggage | ShopMate Direct | https://i.pinimg.com/1200x/43/d9/6a/43d96a308cd2bb9a18929b2dbf447a12.jpg
+Ray-Ban Aviator Polarized Sunglasses | 5490 | Sunglasses | ShopMate Direct | https://i.pinimg.com/1200x/54/00/6c/54006ca82b837d6fbc262956c0468815.jpg
+Men's Classic Biker Leather Jacket | 4999 | Men's Clothing | ShopMate Direct | https://i.pinimg.com/1200x/a3/99/14/a399146ab842657a94176664eb98bd87.jpg
+Levi's Slim Fit Denim Jeans Men | 1999 | Men's Clothing | ShopMate Direct |https://i.pinimg.com/736x/6c/73/7d/6c737d5844b9bf1f73db4d66dfce5aac.jpg
+Allen Solly Cotton Formal Shirt | 1299 | Men's Clothing | ShopMate Direct |https://i.pinimg.com/736x/60/bd/12/60bd12b93488bdf58fd143ba55f12509.jpg
+H&M Regular Fit Crew-Neck T-Shirt | 799 | Men's Clothing | ShopMate Direct | https://i.pinimg.com/736x/21/f2/57/21f257c6990e1c547e494751f6e320aa.jpg
+Roadster Hooded Sweatshirt Men | 1199 | Men's Clothing | ShopMate Direct | https://i.pinimg.com/1200x/ba/3c/b7/ba3cb7f352a2bb38b685d9eddcba5333.jpg
+Peter England Casual Chinos | 1599 | Men's Clothing | ShopMate Direct | https://i.pinimg.com/736x/f0/61/ec/f061ec4b4610984d839a9abdb3bc0534.jpg
+W Printed Cotton Kurta Set | 1799 | Women's Wear | ShopMate Direct | https://i.pinimg.com/736x/87/1e/ba/871eba81be3e196edd7c95b7aad03aa2.jpg
+Biba Anarkali Kurta Women | 2299 | Women's Wear | ShopMate Direct | https://i.pinimg.com/736x/16/ee/88/16ee882eeb33611c21469b8ca3ff2410.jpg
+Libas Floral Maxi Dress | 1499 | Women's Wear | ShopMate Direct | https://i.pinimg.com/736x/2a/d5/19/2ad519f6923ab293918111310e9833c4.jpg
+Max Women Casual Top Pack of 2 | 799 | Women's Wear | ShopMate Direct |https://i.pinimg.com/736x/b9/2c/12/b92c127589c65d85f07049e761b57362.jpg
+AND Wrap Midi Dress | 2499 | Women's Wear | ShopMate Direct | https://i.pinimg.com/1200x/b0/93/84/b0938401be13462e765b2578ad5cf41e.jpg
+Fabindia Cotton Palazzo Pants | 1299 | Women's Wear | ShopMate Direct |https://i.pinimg.com/1200x/f6/a3/a7/f6a3a78e92e7444400e00093b5406b4d.jpg
+Wildcraft 35L Laptop Backpack | 1799 | Backpacks & Luggage | ShopMate Direct | https://i.pinimg.com/1200x/7f/4e/3e/7f4e3e840535fc5bbba56aa9bfb2ebdf.jpg
+American Tourister 55cm Cabin Trolley | 3499 | Backpacks & Luggage | ShopMate Direct |https://i.pinimg.com/736x/49/f3/e0/49f3e0f043cc79a15e578690d4fb422b.jpg
+Skybags Casual School Backpack | 1299 | Backpacks & Luggage | ShopMate Direct |https://i.pinimg.com/736x/6f/0e/4b/6f0e4b2725b2e440963a3e3830a4c306.jpg
+Safari Large Check-in Suitcase 75cm | 4499 | Backpacks & Luggage | ShopMate Direct | https://i.pinimg.com/736x/2d/cf/a0/2dcfa04f4b71957fbaeecf444f9c7b8b.jpg
+Ray-Ban Wayfarer Classic Sunglasses | 6499 | Sunglasses | ShopMate Direct | https://i.pinimg.com/736x/1b/1f/5a/1b1f5ab33e1a58c590c5ac6a6df11041.jpg
+Fastrack Polarized Aviator Sunglasses | 1199 | Sunglasses | ShopMate Direct |https://i.pinimg.com/736x/19/bc/8c/19bc8c8662ec14fa2079e64dcd4c58d2.jpg
+Vincent Chase Round Sunglasses | 999 | Sunglasses | ShopMate Direct | https://i.pinimg.com/736x/10/d7/e5/10d7e5878a60eab6ee95e75b3f64271c.jpg
+Carrera Sport Wrap Sunglasses | 3999 | Sunglasses | ShopMate Direct |https://i.pinimg.com/1200x/05/a0/03/05a0030a7153a040a672837e9950cf01.jpg

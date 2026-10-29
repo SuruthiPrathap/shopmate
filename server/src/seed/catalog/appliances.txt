@@ -1,0 +1,30 @@
+# Appliances products. ONE PRODUCT PER LINE.
+# Format:  Name | Price | Subcategory | Seller (can be empty) | Image link
+# To add a product: copy a line, change the values.   To change a photo: replace the link at the end of the line.
+# Lines starting with # are ignored. Then run:  npm run seed
+
+Philips Digital Air Fryer XL 6.2L | 8999 | Air Fryers | ShopMate Direct | https://i.pinimg.com/736x/4c/7a/5c/4c7a5ce179d868d69f43fb88c7121080.jpg
+De'Longhi Espresso Coffee Machine | 16999 | Kitchen Appliances | ShopMate Direct |https://i.pinimg.com/736x/38/b4/9a/38b49ad00581d6151513e31721300687.jpg
+Dyson V15 Cordless Vacuum Cleaner | 49900 | Home Essentials | ShopMate Direct | https://i.pinimg.com/1200x/86/77/af/8677af83fc2aa6a7808cbb135d3e256b.jpg
+Instant Pot Duo 7-in-1 Multi Cooker | 7499 | Kitchen Appliances | ShopMate Direct | https://i.pinimg.com/736x/74/e5/57/74e5571c25966f3b7bdeb52d80856235.jpg
+Prestige Induction Cooktop 1600W | 2799 | Kitchen Appliances | ShopMate Direct | https://i.pinimg.com/736x/32/a8/11/32a811a8e975b9c44c9ba83dd45fc39f.jpg
+Bajaj Majesty 1000W Mixer Grinder | 3499 | Kitchen Appliances | ShopMate Direct |https://i.pinimg.com/736x/8e/00/5a/8e005a4b2ec59ce138f7295686cd5d9c.jpg
+Philips Daily Collection Juicer | 3299 | Kitchen Appliances | ShopMate Direct |https://i.pinimg.com/736x/17/f8/90/17f890db7a0f5499eeb0bd66385cad75.jpg
+Butterfly 3-Burner Glass Gas Stove | 3999 | Kitchen Appliances | ShopMate Direct | https://i.pinimg.com/1200x/19/ba/a8/19baa87682ce20e21a492d09cc67e87f.jpg
+Pigeon Electric Kettle 1.5L | 699 | Kitchen Appliances | ShopMate Direct | https://i.pinimg.com/736x/5d/09/c5/5d09c5515daea24b42c07c23dfb162d2.jpg
+Morphy Richards 2 Slice Pop-up Toaster | 1799 | Kitchen Appliances | ShopMate Direct | https://i.pinimg.com/1200x/31/cd/86/31cd868e7fc5038902f232291e729c52.jpg
+Prestige Svachh 5L Pressure Cooker | 1899 | Kitchen Appliances | ShopMate Direct | https://i.pinimg.com/736x/22/68/60/226860a845dbb723e1901845b796bf4d.jpg
+Philips Air Fryer HD9200 4.1L | 7999 | Air Fryers | ShopMate Direct | https://i.pinimg.com/736x/13/50/b9/1350b91eee29514b0b1a159aada4245b.jpg
+Havells Prolife Digi 4L Air Fryer | 6499 | Air Fryers | ShopMate Direct | https://i.pinimg.com/736x/62/49/41/6249418d4a7fc528daa7e7919d341cd0.jpg
+Inalsa Air Fryer 4.2L | 5499 | Air Fryers | ShopMate Direct | https://i.pinimg.com/736x/20/6d/5d/206d5d9d8e893fb63f1adc75d6f94027.jpg
+Lifelong Digital Air Fryer 4L | 4499 | Air Fryers | ShopMate Direct | https://i.pinimg.com/736x/e3/0f/f1/e30ff15f359e166c6b30e5d7e023c933.jpg
+Pigeon Healthifry 4.2L Air Fryer | 4999 | Air Fryers | ShopMate Direct |https://i.pinimg.com/736x/81/fc/f6/81fcf6268263046bf84430f0709ef410.jpg
+Agaro Imperial Air Fryer 6L | 6999 | Air Fryers | ShopMate Direct | https://i.pinimg.com/1200x/ee/58/5f/ee585f5cd4dbcf0f368d912cf8de9267.jpg
+Havells Instanio 3L Water Heater | 4299 | Home Essentials | ShopMate Direct | https://i.pinimg.com/736x/31/74/76/3174760cfe93485f8d1ded1935ae74ee.jpg
+Usha Maxx Air Pedestal Fan | 3299 | Home Essentials | ShopMate Direct |https://i.pinimg.com/736x/b4/f6/0b/b4f60ba2ba414128b3b27ea51e79670a.jpg
+Eureka Forbes Vacuum Cleaner | 6999 | Home Essentials | ShopMate Direct |https://i.pinimg.com/1200x/18/25/a6/1825a659d140b49e78f44825e941d5f7.jpg
+Bajaj Radiant Room Heater | 1999 | Home Essentials | ShopMate Direct | https://i.pinimg.com/736x/00/48/80/00488015b77a60cdc41f826133809506.jpg
+Philips LED Bulb 9W Pack of 4 | 499 | Home Essentials | ShopMate Direct |https://i.pinimg.com/736x/6d/62/d4/6d62d4b05ae5e36cc391697c73f24170.jpg
+Prestige Steam Iron 1250W | 1299 | Home Essentials | ShopMate Direct |https://i.pinimg.com/1200x/f2/c2/22/f2c222df1fcb55f00123ade6fbc7e8f8.jpg
+Crompton Ceiling Fan 1200mm | 2599 | Home Essentials | ShopMate Direct | https://i.pinimg.com/1200x/1c/90/3a/1c903a3877c851822b00cd2ab5145176.jpg
+Kent Grand Plus RO Water Purifier | 15499 | Home Essentials | ShopMate Direct | https://i.pinimg.com/736x/9b/c3/4a/9bc34ac9d8556836ba1045450292c4bf.jpg

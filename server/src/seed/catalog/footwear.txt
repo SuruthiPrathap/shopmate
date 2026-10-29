@@ -1,0 +1,30 @@
+# Footwear products. ONE PRODUCT PER LINE.
+# Format:  Name | Price | Subcategory | Seller (can be empty) | Image link
+# To add a product: copy a line, change the values.   To change a photo: replace the link at the end of the line.
+# Lines starting with # are ignored. Then run:  npm run seed
+
+Nike Air Zoom Pro Running Shoes | 3499 | Men's Running | Nike Official Store | https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&q=80
+Adidas Ultraboost Light Gym Trainers | 4299 | Men's Running | ShopMate Direct | https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?w=800&q=80
+Puma Velocity Nitro 2 Sports Shoes | 2899 | Men's Running | Puma India Direct | https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=800&q=80
+Asics Gel-Kayano 30 Stability Shoes | 4999 | Men's Running | ShopMate Direct | https://images.unsplash.com/photo-1539185441755-769473a23570?w=800&q=80
+Under Armour Charged Assert 9 Trainers | 3199 | Men's Running | ShopMate Direct | https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=800&q=80
+New Balance Fresh Foam X 1080v12 | 5299 | Men's Running | ShopMate Direct | https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?w=800&q=80
+Puma Softride Comfort Pink Sneakers | 2299 | Women's Sneakers | Puma India Direct | https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=800&q=80
+Nike Court Vision Low White Sneakers | 3199 | Women's Sneakers | Nike Official Store | https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=800&q=80
+Skechers Arch Fit Slip-On Loafers | 2799 | Women's Sneakers | ShopMate Direct | https://images.unsplash.com/photo-1560769629-975ec94e6a86?w=800&q=80
+Reebok Club C 85 Vintage Sneakers | 2499 | Women's Sneakers | ShopMate Direct | https://images.unsplash.com/photo-1582588678413-dbf45f4823e9?w=800&q=80
+Kids Light-Up Cartoon LED Sneakers | 999 | Kids Footwear | ShopMate Direct | https://images.unsplash.com/photo-1514989940723-e8e51635b782?w=800&q=80
+Nike Flex Runner Slip-On Kids Shoes | 1599 | Kids Footwear | Nike Official Store | https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?w=800&q=80
+Crocs Classic Kids Waterproof Clogs | 1199 | Kids Footwear | ShopMate Direct | https://images.unsplash.com/photo-1562183241-b937e95585b6?w=800&q=80
+Red Chief Genuine Leather Oxfords | 3899 | Formal Leather | ShopMate Direct | https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?w=800&q=80
+Bata Derby Tan Brown Leather Shoes | 2199 | Formal Leather | ShopMate Direct | https://images.unsplash.com/photo-1533867617858-e7b97e060509?w=800&q=80
+Clarks Bushacre Leather Chukka Boots | 4499 | Formal Leather | ShopMate Direct | https://images.unsplash.com/photo-1549298916-b41d501d3772?w=800&q=80
+Woodland Waterproof Trekking Boots | 4299 | Sports & Trekking | ShopMate Direct | https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=800&q=80
+Columbia Peakfreak Trail Shoes | 4999 | Sports & Trekking | ShopMate Direct | https://images.unsplash.com/photo-1511556532299-8f662fc26c06?w=800&q=80
+Asics Gel-Contend Running Shoes | 3299 | Men's Running | Nike Official Store | https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&q=80
+Skechers Street Slip-On Sneakers Women | 2799 | Women's Sneakers | ShopMate Direct | https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=800&q=80
+Puma Cali Dream Sneakers Women | 4499 | Women's Sneakers | Puma India Direct | https://images.unsplash.com/photo-1582588678413-dbf45f4823e9?w=800&q=80
+Campus Kids Sports Shoes with Velcro | 1199 | Kids Footwear | Nike Official Store | https://images.unsplash.com/photo-1514989940723-e8e51635b782?w=800&q=80
+Red Tape Formal Derby Shoes | 2499 | Formal Leather | ShopMate Direct | https://images.unsplash.com/photo-1533867617858-e7b97e060509?w=800&q=80
+Wildcraft Trekking Boots | 3999 | Sports & Trekking | Puma India Direct | https://images.unsplash.com/photo-1511556532299-8f662fc26c06?w=800&q=80
+Quechua Hiking Shoes | 3499 | Sports & Trekking | Nike Official Store | https://images.unsplash.com/photo-1511556532299-8f662fc26c06?w=800&q=80

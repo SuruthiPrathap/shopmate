@@ -1,0 +1,30 @@
+# Electronics products. ONE PRODUCT PER LINE.
+# Format:  Name | Price | Subcategory | Seller (can be empty) | Image link
+# To add a product: copy a line, change the values.   To change a photo: replace the link at the end of the line.
+# Lines starting with # are ignored. Then run:  npm run seed
+
+Sony WH-1000XM5 ANC Headphones | 26990 | Headphones & Earbuds | Sony Audio & Vision Flagship |https://i.pinimg.com/736x/6a/e2/7c/6ae27c9a4cc20b0abdfc3cc55cf627c3.jpg
+Bose QuietComfort Ultra Headphones | 29900 | Headphones & Earbuds | Sony Audio & Vision Flagship |https://i.pinimg.com/736x/de/c3/21/dec321e767a11d24dbb1b91b790dc47e.jpg
+Apple AirPods Pro (2nd Gen) USB-C | 21900 | Headphones & Earbuds | Apple Authorised Reseller | https://i.pinimg.com/736x/12/55/07/1255075015ac277cad6d224da9a0b8bc.jpg
+MacBook Pro 16" M3 Max (36GB RAM) | 319900 | Laptops & Monitors | Apple Authorised Reseller | https://i.pinimg.com/736x/95/ac/c3/95acc35ea6e0dd9188ff1bde05fe523e.jpg
+ASUS ROG Strix G16 Gaming Laptop | 189990 | Laptops & Monitors | ShopMate Direct | https://i.pinimg.com/1200x/a0/e8/30/a0e830efaacbf182328c2f2a6b49c51c.jpg
+Keychron K2 Mechanical Keyboard | 6999 | Gaming Gear | ShopMate Direct | https://i.pinimg.com/1200x/50/34/89/5034891f5d69a76d298f88ea55583fc2.jpg
+LG UltraGear 27" 4K 144Hz Gaming Monitor | 45999 | Laptops & Monitors | Sony Audio & Vision Flagship | https://i.pinimg.com/1200x/8a/cb/70/8acb708cec68a51cdaf7b92800ae5cf8.jpg
+Sony WH-CH520 Wireless Headphones | 4490 | Headphones & Earbuds | Sony Audio & Vision Flagship | https://i.pinimg.com/736x/0a/be/c5/0abec5b3e725fef95d734b912565c156.jpg
+boAt Rockerz 450 Bluetooth Headphones | 1499 | Headphones & Earbuds | Apple Authorised Reseller | https://i.pinimg.com/736x/26/cd/95/26cd958d936232055ff5d2a10519ab86.jpg
+JBL Tune 230NC True Wireless Earbuds | 4999 | Headphones & Earbuds | ShopMate Direct |https://i.pinimg.com/736x/4e/6a/5c/4e6a5c4f08673d5f82e065e320bd179a.jpg
+OnePlus Nord Buds 2r | 1999 | Headphones & Earbuds | Sony Audio & Vision Flagship | https://i.pinimg.com/736x/ce/1b/9a/ce1b9a7f87df015bdf16cf249abddf2d.jpg
+Noise Buds VS104 Earbuds | 1299 | Headphones & Earbuds | Apple Authorised Reseller |https://i.pinimg.com/736x/af/f8/a2/aff8a218ad2b2ea837510a4b92fc3d08.jpg
+Sennheiser CX 80S Wired Earphones | 1799 | Headphones & Earbuds | ShopMate Direct | https://i.pinimg.com/1200x/b7/b1/be/b7b1bebef0fd8cf6a09ca21f55641d74.jpg
+Logitech G102 Gaming Mouse | 1295 | Gaming Gear | Sony Audio & Vision Flagship | https://i.pinimg.com/736x/e1/79/6a/e1796a94f5628b7f642beb63c26ec2f0.jpg
+Redragon K552 Mechanical Keyboard | 2799 | Gaming Gear | Apple Authorised Reseller | https://i.pinimg.com/736x/8f/af/9a/8faf9aa586d5bde145ea806b14426c98.jpg
+HyperX Cloud Stinger Gaming Headset | 3999 | Gaming Gear | ShopMate Direct | https://i.pinimg.com/1200x/74/24/b9/7424b9918f401a738e378b181581f7da.jpg
+Cosmic Byte Gaming Mousepad XL | 599 | Gaming Gear | Sony Audio & Vision Flagship | https://i.pinimg.com/736x/c1/71/17/c17117c41b298e7eb90233c9f72d0268.jpg
+Sony DualSense Wireless Controller | 5990 | Gaming Gear | Apple Authorised Reseller | https://i.pinimg.com/1200x/f6/d9/bc/f6d9bc2a28274b3214d212bc58692b4f.jpg
+Zebronics Gaming Chair Pro | 8999 | Gaming Gear | ShopMate Direct | https://i.pinimg.com/736x/1d/e1/cb/1de1cb0b9f7ed8a8565272efe0b41454.jpg
+HP 15s Laptop 12th Gen i5 16GB | 54990 | Laptops & Monitors | Sony Audio & Vision Flagship | https://i.pinimg.com/736x/28/d4/04/28d404fcf012e8e5fc11e127bd9c5139.jpg
+Lenovo IdeaPad Slim 3 Ryzen 5 | 41990 | Laptops & Monitors | Apple Authorised Reseller | https://i.pinimg.com/736x/76/c9/5f/76c95fdc41da4702700e8a9d5b654919.jpg
+ASUS Vivobook 15 Intel i3 | 32990 | Laptops & Monitors | ShopMate Direct | https://i.pinimg.com/1200x/ac/d9/77/acd977a922e3d7e4a988c179de10b7e8.jpg
+Dell 24 Monitor Full HD IPS | 8999 | Laptops & Monitors | Sony Audio & Vision Flagship |https://i.pinimg.com/1200x/24/31/2b/24312b216b51934033d8f7d43529e444.jpg
+LG 27 inch UltraGear Gaming Monitor | 14999 | Laptops & Monitors | Apple Authorised Reseller |https://i.pinimg.com/1200x/8a/cb/70/8acb708cec68a51cdaf7b92800ae5cf8.jpg
+Acer Aspire 5 Laptop i5 512GB | 49990 | Laptops & Monitors | ShopMate Direct | https://i.pinimg.com/736x/f5/ae/2f/f5ae2f44c7cb84d085ce540fea3cf28e.jpg
