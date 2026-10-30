@@ -160,3 +160,7 @@ export const fetchSellerDocument = async (id) => api(`/api/admin/sellers/${id}/d
 
 export const verifySellerRegistrationRequest = (id) =>
   api(`/api/admin/sellers/${id}/verify-registration`, { method: "PUT" });
+
+
+
+
