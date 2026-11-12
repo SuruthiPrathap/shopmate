@@ -1,26 +1,59 @@
-# ShopMate - Multi-vendor E-commerce (MERN)
+# ShopMate – Multi-vendor Marketplace
 
-A Flipkart-style marketplace with customers, sellers and an admin.
+A full-stack MERN marketplace where customers shop, sellers list products and admins approve sellers.
 
-**Live demo:** _add your Vercel link_  
-**Demo admin:** `admin@shopmate.com` / `admin123` (demo only)
+**Live Demo:** https://shopmate-rc15.vercel.app/
 
 ## Features
-- Customer sign up / login (JWT), cart, wishlist, smart search ("shoes under 3k", "best rated")
-- Checkout with address form, Cash on Delivery, order history
-- **WhatsApp order confirmation** - after ordering, one tap opens WhatsApp with the full order details
-- **Seller onboarding**: apply -> admin approves/rejects -> approved sellers list products with photo upload
-- Admin panel: approve sellers, manage products and orders
-- Image upload to Cloudinary
-- Prices are always recalculated on the server (the browser cannot change them)
+- Registration and login with JWT authentication
+- Three roles: Customer, Seller and Admin, each with its own workflow
+- Seller approval process by the admin
+- Sellers can upload product images and PDF certificate documents
+- Cart and checkout
+- Server-side price recalculation, so prices can't be changed from the browser
+- Checkout validation for 2 payment methods: Cash on Delivery and UPI ID
+- WhatsApp order confirmation
+- Natural-language product search across 200 demo products
 
-## Tech
-React 19 + Vite - Node.js + Express 5 - MongoDB + Mongoose - JWT + bcrypt - Cloudinary - Multer
+## Tech Stack
+| Area | Technology |
+|---|---|
+| Frontend | React |
+| Backend | Node.js, Express.js |
+| Database | MongoDB, Mongoose |
+| Authentication | JWT |
+| Deployment | Vercel |
 
-## Run locally
-```
-cd server && cp .env.example .env   # fill values
-npm install && npm run seed && npm run dev
+## Screenshots
+<Add 3–4 images: home page, product page, seller dashboard, admin dashboard>
+
+## How to Run Locally
+1. Clone the repo
+   ```
+   git clone https://github.com/SuruthiPrathap/shopmate.git
+   cd shopmate
+   ```
+2. Install and start the backend
+   ```
+   cd <backend-folder>
+   npm install
+   npm start
+   ```
+3. Install and start the frontend
+   ```
+   cd <frontend-folder>
+   npm install
+   npm run dev
+   ```
+4. Create a `.env` file in the backend, for example:
+   ```
+   MONGO_URI=<your-mongodb-url>
+   JWT_SECRET=<your-secret-key>
+   ```
+
+## Author
+Suruthi Prathap S
+
 
 cd client && npm install && npm run dev
 ```
