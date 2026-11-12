@@ -24,9 +24,6 @@ A full-stack MERN marketplace where customers shop, sellers list products and ad
 | Authentication | JWT |
 | Deployment | Vercel |
 
-## Screenshots
-<Add 3–4 images: home page, product page, seller dashboard, admin dashboard>
-
 ## How to Run Locally
 1. Clone the repo
    ```
