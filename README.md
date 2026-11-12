@@ -56,5 +56,4 @@ cd client && npm install && npm run dev
 ```
 Open http://localhost:5173
 
-## Screenshots
-_add 3-4 screenshots here (home, product, cart/checkout, admin)_
+
