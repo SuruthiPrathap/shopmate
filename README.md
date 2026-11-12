@@ -28,17 +28,17 @@ A full-stack MERN marketplace where customers shop, sellers list products and ad
 1. Clone the repo
    ```
    git clone https://github.com/SuruthiPrathap/shopmate.git
-   cd shopmate
+   cd ShopMate
    ```
 2. Install and start the backend
    ```
-   cd <backend-folder>
+   cd server
    npm install
    npm start
    ```
 3. Install and start the frontend
    ```
-   cd <frontend-folder>
+   cd client
    npm install
    npm run dev
    ```
